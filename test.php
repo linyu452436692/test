@@ -17,3 +17,4 @@ class Vip extends User
 }
 vip::setSal(5000);
 echo  "you sal is ". vip::getSal();
+ 
