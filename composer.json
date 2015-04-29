@@ -16,10 +16,10 @@
             "Test\\Core\\": "src/Test/Core",
             "Test\\Lib\\": "src/Test/Lib"
         }
-    }
+    },
     "extra": {
          "branch-alias": {
-             "master": "1.0-dev"
+             "dev-master": "1.0-dev"
          }
     }
 }
