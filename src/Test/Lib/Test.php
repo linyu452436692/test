@@ -2,7 +2,7 @@
 namespace Test\Lib;
 class Test {
   public static function welcome() {
-	echo 'test 1.0';
+	echo 'test 1.1';
   }
 }
 ?>
